@@ -21,15 +21,20 @@ The dataset had 8,760 observations, with each observation representing one hour 
 As the problem statement says, the main objective is to predict demand of rental bikes and the bike count required at each hour for the stable supply of rental bikes. We use  supervised learning regression analysis Linear Regression, Lasso Regression, Random Forest Regression for the purpose of training the dataset to predict future supply and demand of bikes.
 
 
-Tools Used
-The whole project was done using python, in google colaboratory. Following libraries were used for analysing the data and visualizing it and to build the model to predict the  bike count required at each hour for the stable supply of rental bikes. 
-Pandas: Extensively used to load and wrangle with the dataset.
-Matplotlib: Used for visualization.
-Seaborn: Used for visualization.
-Datetime: Used for analysing the date variable.
-Warnings: For filtering and ignoring the warnings.
-Numpy: For some math operations in predictions.
-Sklearn: For the purpose of analysis and prediction.
-Datetime: For reading the date.
-Statsmodels: For outliers influence.
+# Tools Used 
+The whole project was done using python, in google collaborator. Following libraries were used for analyzing the data and visualizing: 
+
+● Pandas: Extensively used to load and wrangle with the dataset. 
+
+● Matplotlib: Used for visualization. 
+
+● Seaborn: Used for visualization. 
+
+● Warnings: For filtering and ignoring warnings. 
+
+● Numpy: For some math operations in predictions. 
+
+● Sklearn: For analysis and prediction.
+
+● Stats models: For outliers influence. 
 
